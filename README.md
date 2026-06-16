@@ -1,1 +1,1 @@
-# site2026
+inovação distruptivas e regulamentaçao 

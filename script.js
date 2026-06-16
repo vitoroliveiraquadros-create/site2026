@@ -4,7 +4,7 @@ const botao = document.getElementById('botao-cor');
 
 // 2. Lista de cores que o site pode assumir (Array)
 // Os alunos podem adicionar novos códigos de cores hexadecimais aqui!
-const cores = ['#F5A623', '#E24A4A', '#9B59B6', '#34495E', '#1ABC9C', '#f4f7f6'];
+const cores = ['#794a00', '#006de9', '#dd0000', '#0058b1', '#008d71', '#00f5a3'];
 let indiceCor = 0;
 
 // 3. Criar a função que muda a cor de fundo do body
